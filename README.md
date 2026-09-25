@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/NaanumCoderDhaan/">
+  <a href="https://leetcode.com/u/sudharsun-codes/">
     <img src="https://leetcard.jacoblin.cool/NaanumCoderDhaan?theme=dark&font=Baloo&ext=contest" />
   </a>
 </p> 
